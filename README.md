@@ -19,3 +19,5 @@ A minimal Pastebin-style app built with Next.js 16, Prisma, and PostgreSQL.
 2. Install dependencies
 3. Set up `.env`
 4. Run `npm run dev`
+## Live URL 
+https://pastebin-lite-lilac-rho.vercel.app/
